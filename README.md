@@ -11,7 +11,7 @@ A responsive HTML, CSS and vanilla JavaScript website for PrintNirman.
 ## Before publishing
 
 ### 1. Set the WhatsApp number
-Search in `index.html` for `91XXXXXXXXXX` and replace it with the organisation's WhatsApp number, including the country code, without `+`, spaces or hyphens. Example format: `919876543210`.
+Search in `index.html` for `919818884746` and replace it with the organisation's WhatsApp number, including the country code, without `+`, spaces or hyphens. Example format: `919876543210`.
 
 The number appears in the floating WhatsApp button, contact CTA and footer link.
 
