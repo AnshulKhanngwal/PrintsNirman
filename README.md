@@ -16,7 +16,7 @@ Search in `index.html` for `91XXXXXXXXXX` and replace it with the organisation's
 The number appears in the floating WhatsApp button, contact CTA and footer link.
 
 ### 2. Update contact email
-Replace `hello@printnirman.com` in `index.html` with the organisation's actual email address.
+Replace `printsnirman@gmail.com` in `index.html` with the organisation's actual email address.
 
 ### 3. Replace concept portfolio artwork
 The portfolio and service illustrations are CSS-built concept mockups, not actual client projects. Replace them with PrintNirman-approved project photographs when available.
